@@ -14,21 +14,23 @@ function About() {
         <div className="container">
           <div className="text-wrapper w-full">
             <h1 data-cy="pageTitle" className="title">
-              About
+              About the person I stole my website from
             </h1>
             <p className="description">
-              Incididunt in cillum magna occaecat nisi qui in exercitation
-              labore anim adipisicing amet irure tempor id pariatur nostrud
-              labore nulla veniam sunt occaecat est officia ut cillum do eiusmod
-              enim consequat nulla in ut esse irure ex commodo excepteur
-              pariatur in consectetur consectetur in dolor aliqua ex sint minim
-              dolore ut ea ad dolor est deserunt incididunt exercitation qui
-              laboris ad do minim sunt elit occaecat excepteur deserunt sint
-              sunt laboris dolore amet sit fugiat tempor reprehenderit laborum
-              et irure commodo exercitation ea excepteur esse mollit ad nisi sit
-              laboris dolore ad sunt eiusmod dolore do nisi id commodo in et
-              aliqua sed ullamco ea id duis aliquip commodo qui sed aute ut
-              aliqua.
+              "Sie fallen in das Haar der großen Dunkelheit, außer denen, die in
+              der Übung sind Mit der Arbeit des Geistes ist es leicht, es
+              rechtzeitig loszuwerden mit der Arbeit gibt es kein Verzeihen, sie
+              sind verdunkelt, es sind die Pflichten, denen ich so ein Haar gebe
+              denn es gibt keine Folge in der Art, dass es eilt, außer der
+              Bequemlichkeit im Streben nach dem Leiden einiger der Geringsten
+              geboren werden Bei Schmerzen, wie es bei Schmerzen der Fall ist,
+              geben sie die Übung auf, die stattfindet Sie sind blind, außer
+              denen, die verlassen werden Sie sind mühsam, um zur Zeit ihrer
+              Arbeit zu fliehen und es ist bequem, es auszuüben, außer dass es
+              bis zu dem Punkt weicher wird, wo es nicht mehr der Fall ist die
+              Schmerzen der Wehen sind die gleichen Schmerzen, die ich gebe, es
+              sei denn, dass Vorteil in und einige, aber jeder von ihnen, es ist
+              eine gute Sache für Sie, wer jedoch kann etwas" - Luthfi
             </p>
           </div>
         </div>

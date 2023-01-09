@@ -15,15 +15,16 @@ function Home() {
         <div className="container">
           <div className="text-wrapper">
             <h1 data-cy="homePageTitle" className="title">
-              Halo, saya Lutfhi Ramadhan
+              Hallo, says Patrik
             </h1>
             <p className="description">
-              Saya seorang pekerja lepas pengembang web, fotograper, desainer
-              antarmuka pengguna, dan penulis.
+              I am Patrik Nürnberger, I enjoy many things. One of them is
+              coding. the graphic on the right is Lutfhi, whome I stole my
+              website from. Thank you Lutfhi!
             </p>
 
             <Link href="/contact" className="cta">
-              Kontak Saya
+              Contact Patrik
             </Link>
           </div>
 
